@@ -4,16 +4,17 @@ import json
 import smtplib
 from email.mime.text import MIMEText
 from pathlib import Path
+import os
 
 URL = "https://compuvisionperu.pe/CYM/shop-list-prod-remates.php"
 STATE_FILE = Path("seen_offers.json")
 
-# Configuración del correo
+# Configuración del correo (mejor usar variables de entorno en GitHub Actions)
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_USER = "akezuya@gmail.com"       # pon aquí tu Gmail
-EMAIL_PASS = "swin lwtt hwor odhf"         # la contraseña de aplicación generada
-EMAIL_TO = "mf-a@outlook.com"      # a dónde quieres que llegue el aviso
+EMAIL_USER = os.getenv("EMAIL_USER", "tu_correo@gmail.com")
+EMAIL_PASS = os.getenv("EMAIL_PASS", "TU_CONTRASEÑA_APP")
+EMAIL_TO = os.getenv("EMAIL_TO", "destinatario@gmail.com")
 
 def obtener_ofertas():
     resp = requests.get(URL)
@@ -44,7 +45,8 @@ def cargar_estado():
     return set()
 
 def guardar_estado(ids):
-    STATE_FILE.write_text(json.dumps(list(ids)))
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(ids), f, indent=2, ensure_ascii=False)
 
 def enviar_email(ofertas):
     cuerpo = "<h3>Nuevas ofertas encontradas:</h3><ul>"
@@ -65,6 +67,15 @@ def enviar_email(ofertas):
 def main():
     seen = cargar_estado()
     ofertas = obtener_ofertas()
+
+    # 🔑 Inicialización: si el JSON está vacío, guarda todos los IDs actuales
+    if not seen:
+        seen = {o["id"] for o in ofertas}
+        guardar_estado(seen)
+        print(f"Inicializado con {len(seen)} ofertas actuales.")
+        return
+
+    # En ejecuciones posteriores, detectar solo novedades
     nuevas = [o for o in ofertas if o["id"] not in seen]
 
     if nuevas:
