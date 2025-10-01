@@ -1,0 +1,29 @@
+name: Monitor Remates Compuvision
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # ejecuta cada 10 minutos
+  workflow_dispatch: {}      # permite lanzarlo manualmente
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Run script
+        run: python monitor_ofertas.py
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen_offers.json
+          git commit -m "Update seen_offers.json" || echo "No changes"
+          git push
