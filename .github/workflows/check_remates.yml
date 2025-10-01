@@ -19,8 +19,8 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
       - name: Run script
-        run: python monitor_ofertas.py
-      - name: Commit state
+        run: python offers-alert.py
+      - name: Commit fstate
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
