@@ -23,16 +23,20 @@ def obtener_ofertas():
 
     ofertas = []
     for prod in soup.select("div.product"):
-        enlace_tag = prod.select_one("h4 a")
+        enlace_tag = prod.select_one(".product_title a")
         if not enlace_tag:
             continue
         nombre = enlace_tag.get_text(strip=True)
-        enlace = enlace_tag["href"]
+        enlace = enlace_tag.get("href", "")
+
         precio_tag = prod.select_one(".product_price")
         precio = precio_tag.get_text(strip=True) if precio_tag else "Sin precio"
 
+        # 🔑 Identificador único = enlace + nombre
+        id_unico = f"{enlace}|{nombre}"
+
         ofertas.append({
-            "id": enlace,
+            "id": id_unico,
             "nombre": nombre,
             "enlace": enlace,
             "precio": precio
