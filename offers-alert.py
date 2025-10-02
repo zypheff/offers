@@ -8,12 +8,11 @@ import os
 URL = "https://compuvisionperu.pe/CYM/shop-list-prod-remates.php"
 STATE_FILE = Path("seen_offers.json")
 
-
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_USER = "akezuya@gmail.com"          # <-- tu Gmail
-EMAIL_PASS = "swin lwtt hwor odhf"        # <-- tu contraseña de aplicación
-EMAIL_TO   = "mf-a@outlook.com"           # <-- destinatario
+EMAIL_USER = os.environ["EMAIL_USER"]
+EMAIL_PASS = os.environ["EMAIL_PASS"]
+EMAIL_TO   = os.environ["EMAIL_TO"]        # <-- destinatario
 
 # --- Funciones principales ---
 def obtener_ofertas():
