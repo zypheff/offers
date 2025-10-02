@@ -68,22 +68,25 @@ def guardar_estado(ids):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(list(ids), f, indent=2, ensure_ascii=False)
 
-
 def enviar_email(ofertas):
-    cuerpo = "<h3>Nuevas ofertas encontradas:</h3><ul>"
-    for o in ofertas:
-        cuerpo += f"<li>{o['nombre']} — {o['precio']} → <a href='{o['enlace']}'>Ver oferta</a></li>"
-    cuerpo += "</ul>"
+    try:
+        cuerpo = "<h3>Nuevas ofertas encontradas:</h3><ul>"
+        for o in ofertas:
+            cuerpo += f"<li>{o['nombre']} — {o['precio']} → <a href='https://compuvisionperu.pe/CYM/{o['enlace']}'>Ver oferta</a></li>"
+        cuerpo += "</ul>"
 
-    msg = MIMEText(cuerpo, "html")
-    msg["Subject"] = "Nueva oferta detectada en Compuvision"
-    msg["From"] = EMAIL_USER
-    msg["To"] = EMAIL_TO
+        msg = MIMEText(cuerpo, "html")
+        msg["Subject"] = "Nueva oferta detectada en Compuvision"
+        msg["From"] = EMAIL_USER
+        msg["To"] = EMAIL_TO
 
-    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
-        server.starttls()
-        server.login(EMAIL_USER, EMAIL_PASS)
-        server.sendmail(EMAIL_USER, EMAIL_TO, msg.as_string())
+        with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+            server.starttls()
+            server.login(EMAIL_USER, EMAIL_PASS)
+            server.sendmail(EMAIL_USER, EMAIL_TO, msg.as_string())
+        print("✅ Correo enviado correctamente")
+    except Exception as e:
+        print(f"❌ Error enviando correo: {e}")
 
 
 def main():
