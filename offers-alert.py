@@ -3,17 +3,17 @@ import json
 import smtplib
 from email.mime.text import MIMEText
 from pathlib import Path
+import os
 
 URL = "https://compuvisionperu.pe/CYM/shop-list-prod-remates.php"
 STATE_FILE = Path("seen_offers.json")
 
-# --- Configuración del correo ---
+
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_USER = "akezuya@gmail.com"          # <-- tu Gmail
 EMAIL_PASS = "swin lwtt hwor odhf"        # <-- tu contraseña de aplicación
 EMAIL_TO   = "mf-a@outlook.com"           # <-- destinatario
-
 
 # --- Funciones principales ---
 def obtener_ofertas():
@@ -42,6 +42,7 @@ def obtener_ofertas():
                 "precio": precio
             })
         browser.close()
+    
     return ofertas
 
 
@@ -63,9 +64,10 @@ def cargar_estado():
         return data
     return []
 
-def guardar_estado(ofertas):
+
+def guardar_estado(ids):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(ofertas, f, indent=2, ensure_ascii=False)
+        json.dump(list(ids), f, indent=2, ensure_ascii=False)
 
 
 def enviar_email(ofertas):
@@ -91,12 +93,14 @@ def main():
 
     ofertas = obtener_ofertas()
 
+
     if not seen:
         guardar_estado(ofertas)
         print(f"Inicializado con {len(ofertas)} ofertas actuales.")
         return
 
     nuevas = [o for o in ofertas if o["id"] not in seen_ids]
+
 
     if nuevas:
         print("=== NUEVAS OFERTAS DETECTADAS ===")
