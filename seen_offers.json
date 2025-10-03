@@ -76,5 +76,29 @@
     "nombre": "CONTROLES DE COOLER MULTI-MARCA",
     "enlace": "shop-product-detail.php?prod=3364",
     "precio": "$3.00 S/. 10.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4221|MONITOR 24 IPS ASUS VY249HGR OPEN BOX 1080P 120HZ 1MS HDMI VGA",
+    "nombre": "MONITOR 24 IPS ASUS VY249HGR OPEN BOX 1080P 120HZ 1MS HDMI VGA",
+    "enlace": "shop-product-detail.php?prod=4221",
+    "precio": "$55.00 S/. 192.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4220|MONITOR 27 IPS ASUS VY279HGR OPEN BOX 1080P 1MS 120HZ VGA HDMI",
+    "nombre": "MONITOR 27 IPS ASUS VY279HGR OPEN BOX 1080P 1MS 120HZ VGA HDMI",
+    "enlace": "shop-product-detail.php?prod=4220",
+    "precio": "$69.00 S/. 241.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4219|MONITOR 27 FAST IPS ASUS TUF GAMING VG279QM5A OPEN BOX 1080P 1MS 240HZ 2*1.2W HDMI DP AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
+    "nombre": "MONITOR 27 FAST IPS ASUS TUF GAMING VG279QM5A OPEN BOX 1080P 1MS 240HZ 2*1.2W HDMI DP AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
+    "enlace": "shop-product-detail.php?prod=4219",
+    "precio": "$99.00 S/. 346.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4218|MONITOR 24 IPS ASUS VA24EHF OPEN BOX EYE CARE HD 100HZ 1MS 1080P HDMI",
+    "nombre": "MONITOR 24 IPS ASUS VA24EHF OPEN BOX EYE CARE HD 100HZ 1MS 1080P HDMI",
+    "enlace": "shop-product-detail.php?prod=4218",
+    "precio": "$55.00 S/. 192.50"
   }
 ]
