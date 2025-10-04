@@ -106,5 +106,23 @@
     "nombre": "MOUSE ASUS P713 ROG HARPE ACE AIM LAB EDITION OPEN BOX USB 2.0 BLUETOOTH RF 2.4GHZ 36000DPI",
     "enlace": "shop-product-detail.php?prod=4223",
     "precio": "$25.00 S/. 87.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=3164|ESTABILIZADOR ELISE FASE FXE-10 BLACK SOLIDO 1.0KVA 4 TOMAS A 220VAC 1 TOMA BY-PASS",
+    "nombre": "ESTABILIZADOR ELISE FASE FXE-10 BLACK SOLIDO 1.0KVA 4 TOMAS A 220VAC 1 TOMA BY-PASS",
+    "enlace": "shop-product-detail.php?prod=3164",
+    "precio": "$20.00 S/. 70.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=3160|UPS INTERACTIVO ELISE FASE AUR-650-LCD-USB 650VA 360W",
+    "nombre": "UPS INTERACTIVO ELISE FASE AUR-650-LCD-USB 650VA 360W",
+    "enlace": "shop-product-detail.php?prod=3160",
+    "precio": "$35.00 S/. 122.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=3159|ESTABILIZADOR ELISE FASE-10 SOLIDO 1.0KVA 220V 4 TOMAS 220V Y 1 TOMA A 110V",
+    "nombre": "ESTABILIZADOR ELISE FASE-10 SOLIDO 1.0KVA 220V 4 TOMAS 220V Y 1 TOMA A 110V",
+    "enlace": "shop-product-detail.php?prod=3159",
+    "precio": "$18.00 S/. 63.00"
   }
 ]
