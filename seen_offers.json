@@ -136,5 +136,11 @@
     "nombre": "R - CPU AMD RYZEN THREADRIPPER PRO 5955WX N12 TH32 64MB 4.0GHZ SWRX8 S/G TURBO CORE 4.5GHZ",
     "enlace": "shop-product-detail.php?prod=3040",
     "precio": "$500.00 S/. 1730.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4255|MONITOR 32 LCD ASUS VA326H CURVO 1080P 144HZ HDMI DP USB",
+    "nombre": "MONITOR 32 LCD ASUS VA326H CURVO 1080P 144HZ HDMI DP USB",
+    "enlace": "shop-product-detail.php?prod=4255",
+    "precio": "$175.00 S/. 598.50"
   }
 ]
