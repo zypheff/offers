@@ -142,5 +142,11 @@
     "nombre": "MONITOR 32 LCD ASUS VA326H CURVO 1080P 144HZ HDMI DP USB",
     "enlace": "shop-product-detail.php?prod=4255",
     "precio": "$175.00 S/. 598.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=2783|PAD MOUSE GAMING 90 X 40",
+    "nombre": "PAD MOUSE GAMING 90 X 40",
+    "enlace": "shop-product-detail.php?prod=2783",
+    "precio": "$4.00 S/. 13.60"
   }
 ]
