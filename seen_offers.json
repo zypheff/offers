@@ -148,5 +148,11 @@
     "nombre": "PAD MOUSE GAMING 90 X 40",
     "enlace": "shop-product-detail.php?prod=2783",
     "precio": "$4.00 S/. 13.60"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4299|VIDEO ASUS GEFORCE TUF RTX 3070 TI OPEN BOX OC 8GB GDDR6X CUDA 6144 256-BIT HDMI/DP TUF-RTX3070TI-O8G-GAMING",
+    "nombre": "VIDEO ASUS GEFORCE TUF RTX 3070 TI OPEN BOX OC 8GB GDDR6X CUDA 6144 256-BIT HDMI/DP TUF-RTX3070TI-O8G-GAMING",
+    "enlace": "shop-product-detail.php?prod=4299",
+    "precio": "$425.00 S/. 1453.50"
   }
 ]
