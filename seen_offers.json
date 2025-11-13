@@ -160,5 +160,11 @@
     "nombre": "VIDEO ASUS TUF GAMING GEFORCE RTX 5080 16GB GDDR7 OC OPEN BOX EDITION CUDA 10752 256-BIT HDMI DP ARGB OB-TUF-RTX5080-O16G-GAMING",
     "enlace": "shop-product-detail.php?prod=4306",
     "precio": "$1499.00 S/. 5126.58"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4308|PLACA ASUS Z890 AYW GAMING WIFI W OPEN BOX LGA 1851 INTEL Z890 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH ATX",
+    "nombre": "PLACA ASUS Z890 AYW GAMING WIFI W OPEN BOX LGA 1851 INTEL Z890 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH ATX",
+    "enlace": "shop-product-detail.php?prod=4308",
+    "precio": "$165.00 S/. 564.30"
   }
 ]
