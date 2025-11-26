@@ -202,5 +202,11 @@
     "nombre": "MONITOR 27 OLED ASUS ROG SWIFT OLED PG27AQDM-R 2K QHD 240HZ 0.03MS HDMI DP USB-HUB G-SYNC COMPATIBLE",
     "enlace": "shop-product-detail.php?prod=4333",
     "precio": "$1110.00 S/. 3796.20"
+  },
+  {
+    "id": "shop-product-detail.php?prod=2580|USB 32GB TEAMGROUP C211 AZUL USB 3.2 GEN1 TYPE-A",
+    "nombre": "USB 32GB TEAMGROUP C211 AZUL USB 3.2 GEN1 TYPE-A",
+    "enlace": "shop-product-detail.php?prod=2580",
+    "precio": "$3.00 S/. 10.26"
   }
 ]
