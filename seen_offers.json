@@ -208,5 +208,41 @@
     "nombre": "USB 32GB TEAMGROUP C211 AZUL USB 3.2 GEN1 TYPE-A",
     "enlace": "shop-product-detail.php?prod=2580",
     "precio": "$3.00 S/. 10.26"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4400|WEB CAM HALION HA-W04 WHITE SD480P C/MICROFONO CMOS OW0309 SENSOR 1G + 2P USB",
+    "nombre": "WEB CAM HALION HA-W04 WHITE SD480P C/MICROFONO CMOS OW0309 SENSOR 1G + 2P USB",
+    "enlace": "shop-product-detail.php?prod=4400",
+    "precio": "$3.50 S/. 11.97"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4399|WEB CAM HALION HA-W04 BLACK SD480P C/MICROFONO CMOS OW0309 SENSOR 1G + 2P USB",
+    "nombre": "WEB CAM HALION HA-W04 BLACK SD480P C/MICROFONO CMOS OW0309 SENSOR 1G + 2P USB",
+    "enlace": "shop-product-detail.php?prod=4399",
+    "precio": "$4.00 S/. 13.68"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4398|MOUSE HALION HA-2111 CARTER BLACK WIRELESS 2.4GHZ",
+    "nombre": "MOUSE HALION HA-2111 CARTER BLACK WIRELESS 2.4GHZ",
+    "enlace": "shop-product-detail.php?prod=4398",
+    "precio": "$3.00 S/. 10.26"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4397|HEADSET HALION HA-Z25 7 LED 5.1 GAMER USB+RGB",
+    "nombre": "HEADSET HALION HA-Z25 7 LED 5.1 GAMER USB+RGB",
+    "enlace": "shop-product-detail.php?prod=4397",
+    "precio": "$13.00 S/. 44.46"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4396|HEADSET HALION HA-H904 STAR RGB BLACK/PLATA 7.1 USB",
+    "nombre": "HEADSET HALION HA-H904 STAR RGB BLACK/PLATA 7.1 USB",
+    "enlace": "shop-product-detail.php?prod=4396",
+    "precio": "$21.00 S/. 71.82"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4395|COOLER DE CASE GAMEMAX RB300 VORTEX ARGB 3X120 MM",
+    "nombre": "COOLER DE CASE GAMEMAX RB300 VORTEX ARGB 3X120 MM",
+    "enlace": "shop-product-detail.php?prod=4395",
+    "precio": "$13.00 S/. 44.46"
   }
 ]
