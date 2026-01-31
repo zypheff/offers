@@ -250,5 +250,41 @@
     "nombre": "MONITOR 27 IPS ASUS PROART DISPLAY PA278QV OPEN BOX 2K SRBG 5MS 75HZ DVI/HDMI/DP-MINI USB 3.0",
     "enlace": "shop-product-detail.php?prod=3543",
     "precio": "$140.00 S/. 478.80"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4496|VIDEO ASUS DUAL GEFORCE RTX 4060 V2 OC OPEN BOX EDITION 8GB GDDR6 CUDA 3072 128-BIT HDMI DP DUAL-RTX4060-O8G-V2",
+    "nombre": "VIDEO ASUS DUAL GEFORCE RTX 4060 V2 OC OPEN BOX EDITION 8GB GDDR6 CUDA 3072 128-BIT HDMI DP DUAL-RTX4060-O8G-V2",
+    "enlace": "shop-product-detail.php?prod=4496",
+    "precio": "$290.00 S/. 991.80"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4495|MONITOR 24 IPS ASUS VY249HGR OPEN BOX 1080P 120HZ 1MS HDMI VGA",
+    "nombre": "MONITOR 24 IPS ASUS VY249HGR OPEN BOX 1080P 120HZ 1MS HDMI VGA",
+    "enlace": "shop-product-detail.php?prod=4495",
+    "precio": "$55.00 S/. 188.10"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4494|MONITOR 27 IPS ASUS TUF GAMING VG27AQL5A OPEN BOX 2K 1MS 210HZ ALTAVOZ 2*1.2W HDMI DP USB HUB OB-TUF-GAMING-VG27AQL5A",
+    "nombre": "MONITOR 27 IPS ASUS TUF GAMING VG27AQL5A OPEN BOX 2K 1MS 210HZ ALTAVOZ 2*1.2W HDMI DP USB HUB OB-TUF-GAMING-VG27AQL5A",
+    "enlace": "shop-product-detail.php?prod=4494",
+    "precio": "$140.00 S/. 478.80"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4493|MONITOR 27 IPS ASUS ROG STRIX XG27ACMES OPEN BOX 2K 0.3MS 255HZ HDMI DP USB-C AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
+    "nombre": "MONITOR 27 IPS ASUS ROG STRIX XG27ACMES OPEN BOX 2K 0.3MS 255HZ HDMI DP USB-C AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
+    "enlace": "shop-product-detail.php?prod=4493",
+    "precio": "$199.00 S/. 680.58"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4492|MONITOR 24 FAST IPS TUF GAMING VG249QM5A OPEN BOX 1080P 0.3MS 240HZ 2W*2 HDMI DP COMPATIBLE CON G-SYNC AMD FREESYNC",
+    "nombre": "MONITOR 24 FAST IPS TUF GAMING VG249QM5A OPEN BOX 1080P 0.3MS 240HZ 2W*2 HDMI DP COMPATIBLE CON G-SYNC AMD FREESYNC",
+    "enlace": "shop-product-detail.php?prod=4492",
+    "precio": "$85.00 S/. 290.70"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4491|MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "nombre": "MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "enlace": "shop-product-detail.php?prod=4491",
+    "precio": "$450.00 S/. 1539.00"
   }
 ]
