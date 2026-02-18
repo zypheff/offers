@@ -292,5 +292,17 @@
     "nombre": "MONITOR 34 VA TUF GAMING VG34VQL3A OPEN BOX 4K 1MS 180HZ SPEAKER HDMI DP",
     "enlace": "shop-product-detail.php?prod=4509",
     "precio": "$210.00 S/. 714.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4541|PLACA ASUS PRIME B860M-A OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB USB 20GB M-ATX",
+    "nombre": "PLACA ASUS PRIME B860M-A OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB USB 20GB M-ATX",
+    "enlace": "shop-product-detail.php?prod=4541",
+    "precio": "$120.00 S/. 408.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4540|PLACA ASUS ROG STRIX B860-F GAMING WIFI OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH M.2 SATA 6GB ATX",
+    "nombre": "PLACA ASUS ROG STRIX B860-F GAMING WIFI OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH M.2 SATA 6GB ATX",
+    "enlace": "shop-product-detail.php?prod=4540",
+    "precio": "$199.00 S/. 676.60"
   }
 ]
