@@ -304,5 +304,11 @@
     "nombre": "PLACA ASUS ROG STRIX B860-F GAMING WIFI OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH M.2 SATA 6GB ATX",
     "enlace": "shop-product-detail.php?prod=4540",
     "precio": "$199.00 S/. 676.60"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4555|DISCO SOLIDO SSD 1TB SAMSUNG 870 EVO BLACK OEN SATA 2.5 OE-MZ-77E1T0B/AM",
+    "nombre": "DISCO SOLIDO SSD 1TB SAMSUNG 870 EVO BLACK OEN SATA 2.5 OE-MZ-77E1T0B/AM",
+    "enlace": "shop-product-detail.php?prod=4555",
+    "precio": "$199.00 S/. 676.60"
   }
 ]
