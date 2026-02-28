@@ -310,5 +310,23 @@
     "nombre": "DISCO SOLIDO SSD 1TB SAMSUNG 870 EVO BLACK OEN SATA 2.5 OE-MZ-77E1T0B/AM",
     "enlace": "shop-product-detail.php?prod=4555",
     "precio": "$199.00 S/. 676.60"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4575|MONITOR 27 IPS ASUS VA279HG OPEN BOX 1080P 1MS 120HZ VGA HDMI",
+    "nombre": "MONITOR 27 IPS ASUS VA279HG OPEN BOX 1080P 1MS 120HZ VGA HDMI",
+    "enlace": "shop-product-detail.php?prod=4575",
+    "precio": "$85.00 S/. 289.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4574|MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "nombre": "MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "enlace": "shop-product-detail.php?prod=4574",
+    "precio": "$499.00 S/. 1696.60"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4573|MONITOR 27 IPS ASUS TUF GAMING VG27AQL3A OPEN BOX QHD 2K 180HZ 1MS ALTAVOS*2 HDMI DP G-SYNC ADAPTIVESYNC",
+    "nombre": "MONITOR 27 IPS ASUS TUF GAMING VG27AQL3A OPEN BOX QHD 2K 180HZ 1MS ALTAVOS*2 HDMI DP G-SYNC ADAPTIVESYNC",
+    "enlace": "shop-product-detail.php?prod=4573",
+    "precio": "$145.00 S/. 493.00"
   }
 ]
