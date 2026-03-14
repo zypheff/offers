@@ -364,5 +364,23 @@
     "nombre": "JUGUETE INTERACTIVO CON IA ADVANCE LT7188TY BUBU EL BUHO CHATGPT 4 APP TUYA SMART 1200MAH FELPA LT7188TY",
     "enlace": "shop-product-detail.php?prod=4412",
     "precio": "$95.00 S/. 327.75"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4639|MONITOR 27 IPS ASUS TUF GAMING VG27AQ5A OPEN BOX 2K 1MS 210HZ HDMI DP USB HUB TUF-GAMING-VG27AQ5A",
+    "nombre": "MONITOR 27 IPS ASUS TUF GAMING VG27AQ5A OPEN BOX 2K 1MS 210HZ HDMI DP USB HUB TUF-GAMING-VG27AQ5A",
+    "enlace": "shop-product-detail.php?prod=4639",
+    "precio": "$155.00 S/. 538.63"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4638|CASE ASUS ROG HYPERION GR701 BLACK ARGB OPEN BOX E-ATX TYPE-C ALUMINIO AURA SYNC RGB GR701-BK",
+    "nombre": "CASE ASUS ROG HYPERION GR701 BLACK ARGB OPEN BOX E-ATX TYPE-C ALUMINIO AURA SYNC RGB GR701-BK",
+    "enlace": "shop-product-detail.php?prod=4638",
+    "precio": "$199.00 S/. 691.52"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4637|VIDEO ASUS PRIME RADEON RX 9060 XT OPEN BOX 16GB GDDR6 OC EDITION SP 2048 128-BIT HDMI DP PRIME-RX9060XT-O16G",
+    "nombre": "VIDEO ASUS PRIME RADEON RX 9060 XT OPEN BOX 16GB GDDR6 OC EDITION SP 2048 128-BIT HDMI DP PRIME-RX9060XT-O16G",
+    "enlace": "shop-product-detail.php?prod=4637",
+    "precio": "$420.00 S/. 1459.50"
   }
 ]
