@@ -418,5 +418,17 @@
     "nombre": "PLACA ASUS ROG MAXIMUS Z890 HERO OPEN BOX LGA 1851 INTEL Z890 DDR5 HDMI DP TH USB-C M.2 SATA 6GB WI-FI BLUETOOTH",
     "enlace": "shop-product-detail.php?prod=4645",
     "precio": "$350.00 S/. 1218.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4666|VIDEO ASUS TUF GAMING GEFORCE RTX 5070 TI OC OPEN BOX EDITION 16GB GDDR7 CUDA 8960 256-BIT HDMI DP ARGB TUF-RTX5070TI-O16G-GAMING",
+    "nombre": "VIDEO ASUS TUF GAMING GEFORCE RTX 5070 TI OC OPEN BOX EDITION 16GB GDDR7 CUDA 8960 256-BIT HDMI DP ARGB TUF-RTX5070TI-O16G-GAMING",
+    "enlace": "shop-product-detail.php?prod=4666",
+    "precio": "$950.00 S/. 3325.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4665|VIDEO DELL NVIDIA GEFORCE RTX 5080 16GB GDDR7 OPEN BOX",
+    "nombre": "VIDEO DELL NVIDIA GEFORCE RTX 5080 16GB GDDR7 OPEN BOX",
+    "enlace": "shop-product-detail.php?prod=4665",
+    "precio": "$1399.00 S/. 4896.50"
   }
 ]
