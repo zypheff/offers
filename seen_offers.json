@@ -436,5 +436,17 @@
     "nombre": "MONITOR 27 QD-OLED ASUS ROG STRIX OLED XG27ACDMS OPEN BOX 2K 0.03MS 280HZ HDMI DP NVIDIA G-SYNC AMD FREESYNC ROG-STRIX-OLED-XG27ACDMS",
     "enlace": "shop-product-detail.php?prod=4691",
     "precio": "$499.00 S/. 1716.56"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4696|MONITOR 27 IPS ASUS TUF GAMING VG27AQ5A OPEN BOX 2K 1MS 210HZ HDMI DP USB HUB TUF-GAMING-VG27AQ5A",
+    "nombre": "MONITOR 27 IPS ASUS TUF GAMING VG27AQ5A OPEN BOX 2K 1MS 210HZ HDMI DP USB HUB TUF-GAMING-VG27AQ5A",
+    "enlace": "shop-product-detail.php?prod=4696",
+    "precio": "$155.00 S/. 527.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4695|VIDEO ASUS DUAL GEFORCE RTX 3060 V2 OC OPEN BOX EDITION 12GB GDDR6 CUDA 3584 192-BIT DUAL-RTX3060-O12G-V2",
+    "nombre": "VIDEO ASUS DUAL GEFORCE RTX 3060 V2 OC OPEN BOX EDITION 12GB GDDR6 CUDA 3584 192-BIT DUAL-RTX3060-O12G-V2",
+    "enlace": "shop-product-detail.php?prod=4695",
+    "precio": "$255.00 S/. 867.00"
   }
 ]
