@@ -496,5 +496,59 @@
     "nombre": "TECLADO COOLER MASTER MK770 MACARON HYBRID WIRELESS KAIL BOX V2 WHITE SWITCH WIRED 2.4GHZ BLUETOOTH MK-770-MCKW1-US",
     "enlace": "shop-product-detail.php?prod=4704",
     "precio": "$79.00 S/. 273.34"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4725|MONITOR 27 VA COOLER MASTER GA271 2K WQHD 100HZ 1MS HDMI DP CMI-GA271",
+    "nombre": "MONITOR 27 VA COOLER MASTER GA271 2K WQHD 100HZ 1MS HDMI DP CMI-GA271",
+    "enlace": "shop-product-detail.php?prod=4725",
+    "precio": "$115.00 S/. 397.90"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4724|COOLER DE CPU COOLER MASTER MASTERLIQUID ML240L CORE ARGB BLACK INTEL AMD ALUMINUM MLW-D24M-A18PZ-R1",
+    "nombre": "COOLER DE CPU COOLER MASTER MASTERLIQUID ML240L CORE ARGB BLACK INTEL AMD ALUMINUM MLW-D24M-A18PZ-R1",
+    "enlace": "shop-product-detail.php?prod=4724",
+    "precio": "$49.00 S/. 169.54"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4721|CAMARA TEROS TE-90605W WHITE INTELIGENTE 3MP WIFI",
+    "nombre": "CAMARA TEROS TE-90605W WHITE INTELIGENTE 3MP WIFI",
+    "enlace": "shop-product-detail.php?prod=4721",
+    "precio": "$20.00 S/. 69.20"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4720|COOLER DE CASE COOLER MASTER MOBIUS 120P ARGB 120MM MFZ-M2DN-24NP2-R1",
+    "nombre": "COOLER DE CASE COOLER MASTER MOBIUS 120P ARGB 120MM MFZ-M2DN-24NP2-R1",
+    "enlace": "shop-product-detail.php?prod=4720",
+    "precio": "$18.50 S/. 64.01"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4719|COOLER DE CPU COOLER MASTER MASTERLIQUID PL240 FLUX BLACK ARGB AMD/INTEL MLY-D24M-A23PZ-R1",
+    "nombre": "COOLER DE CPU COOLER MASTER MASTERLIQUID PL240 FLUX BLACK ARGB AMD/INTEL MLY-D24M-A23PZ-R1",
+    "enlace": "shop-product-detail.php?prod=4719",
+    "precio": "$67.00 S/. 231.82"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4718|MOUSE COOLER MASTER MM731 BLACK BLUETOOTH DPI 19000 2.4GHZ WIRED MODE 1000HZ MM-731-KKOH1",
+    "nombre": "MOUSE COOLER MASTER MM731 BLACK BLUETOOTH DPI 19000 2.4GHZ WIRED MODE 1000HZ MM-731-KKOH1",
+    "enlace": "shop-product-detail.php?prod=4718",
+    "precio": "$36.50 S/. 126.29"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4717|MOUSE COOLER MASTER MM731 WHITE BLUETOOTH DPI 19000 2.4GHZ WIRED MODE 1000HZ MM-731-WWOH1",
+    "nombre": "MOUSE COOLER MASTER MM731 WHITE BLUETOOTH DPI 19000 2.4GHZ WIRED MODE 1000HZ MM-731-WWOH1",
+    "enlace": "shop-product-detail.php?prod=4717",
+    "precio": "$36.50 S/. 126.29"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4716|ALFONBRA COOLER MASTER FM510 GAMING CHAIR FLOOR MAT 1400 X 1105 X 3 MM CMI-FM510H",
+    "nombre": "ALFONBRA COOLER MASTER FM510 GAMING CHAIR FLOOR MAT 1400 X 1105 X 3 MM CMI-FM510H",
+    "enlace": "shop-product-detail.php?prod=4716",
+    "precio": "$55.00 S/. 190.30"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4715|ADAPTADOR COOLER MASTER 90 GRADOS 3*8 PIN PCI-E A 12VHPW TIPO 2 CMA-NFPC16XXBK2-GL",
+    "nombre": "ADAPTADOR COOLER MASTER 90 GRADOS 3*8 PIN PCI-E A 12VHPW TIPO 2 CMA-NFPC16XXBK2-GL",
+    "enlace": "shop-product-detail.php?prod=4715",
+    "precio": "$3.00 S/. 10.38"
   }
 ]
