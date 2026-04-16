@@ -448,5 +448,53 @@
     "nombre": "VIDEO ASUS DUAL GEFORCE RTX 3060 V2 OC OPEN BOX EDITION 12GB GDDR6 CUDA 3584 192-BIT DUAL-RTX3060-O12G-V2",
     "enlace": "shop-product-detail.php?prod=4695",
     "precio": "$255.00 S/. 867.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4714|KIT DE ACTUALIZACION COOLER MASTER LGA 1700 PARA LAS SERIES HYPER 212 / MASTERAIR MP610P MASTERAIR MA410M 603005420-GP",
+    "nombre": "KIT DE ACTUALIZACION COOLER MASTER LGA 1700 PARA LAS SERIES HYPER 212 / MASTERAIR MP610P MASTERAIR MA410M 603005420-GP",
+    "enlace": "shop-product-detail.php?prod=4714",
+    "precio": "$0.50 S/. 1.73"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4711|FUENTE 500W COOLER MASTER NWE 500 80 PLUS BRONZE V2 MPE-5001-ACAAB-US",
+    "nombre": "FUENTE 500W COOLER MASTER NWE 500 80 PLUS BRONZE V2 MPE-5001-ACAAB-US",
+    "enlace": "shop-product-detail.php?prod=4711",
+    "precio": "$47.50 S/. 164.35"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4710|MESA COOLER MASTER GD160 ARGB USB 2.0 CMI-GD160-PRAE1-US",
+    "nombre": "MESA COOLER MASTER GD160 ARGB USB 2.0 CMI-GD160-PRAE1-US",
+    "enlace": "shop-product-detail.php?prod=4710",
+    "precio": "$545.00 S/. 1885.70"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4709|MOUSE COOLER MASTER MM310 BLACK DPI 12000 WIRED TYPE-C",
+    "nombre": "MOUSE COOLER MASTER MM310 BLACK DPI 12000 WIRED TYPE-C",
+    "enlace": "shop-product-detail.php?prod=4709",
+    "precio": "$0.00 S/. 0.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4708|ADAPTADOR COOLER MASTER PARA MONITOR GM27-CQS / GA271 714000750-GP",
+    "nombre": "ADAPTADOR COOLER MASTER PARA MONITOR GM27-CQS / GA271 714000750-GP",
+    "enlace": "shop-product-detail.php?prod=4708",
+    "precio": "$0.00 S/. 0.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4707|ADAPTADOR DE SSD COOLER MASTER ORACLE AIR GUNMETAL ALUMINUM USB 3.2 GEN 2 TYPE-C M.2 NVME PCIE",
+    "nombre": "ADAPTADOR DE SSD COOLER MASTER ORACLE AIR GUNMETAL ALUMINUM USB 3.2 GEN 2 TYPE-C M.2 NVME PCIE",
+    "enlace": "shop-product-detail.php?prod=4707",
+    "precio": "$0.00 S/. 0.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4705|TECLADO COOLER MASTER MK770 BLACK GREY HYBRID WIRELESS KAIL BOX V2 SWITCH WIRED 2.4GHZ BLUETOOTH MK-770-GKKW1-US",
+    "nombre": "TECLADO COOLER MASTER MK770 BLACK GREY HYBRID WIRELESS KAIL BOX V2 SWITCH WIRED 2.4GHZ BLUETOOTH MK-770-GKKW1-US",
+    "enlace": "shop-product-detail.php?prod=4705",
+    "precio": "$79.00 S/. 273.34"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4704|TECLADO COOLER MASTER MK770 MACARON HYBRID WIRELESS KAIL BOX V2 WHITE SWITCH WIRED 2.4GHZ BLUETOOTH MK-770-MCKW1-US",
+    "nombre": "TECLADO COOLER MASTER MK770 MACARON HYBRID WIRELESS KAIL BOX V2 WHITE SWITCH WIRED 2.4GHZ BLUETOOTH MK-770-MCKW1-US",
+    "enlace": "shop-product-detail.php?prod=4704",
+    "precio": "$79.00 S/. 273.34"
   }
 ]
