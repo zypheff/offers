@@ -550,5 +550,35 @@
     "nombre": "ADAPTADOR COOLER MASTER 90 GRADOS 3*8 PIN PCI-E A 12VHPW TIPO 2 CMA-NFPC16XXBK2-GL",
     "enlace": "shop-product-detail.php?prod=4715",
     "precio": "$3.00 S/. 10.38"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4748|MONITOR 34 VA TUF GAMING VG34VQL3A OPEN BOX 4K 1MS 180HZ SPEAKER HDMI DP",
+    "nombre": "MONITOR 34 VA TUF GAMING VG34VQL3A OPEN BOX 4K 1MS 180HZ SPEAKER HDMI DP",
+    "enlace": "shop-product-detail.php?prod=4748",
+    "precio": "$215.00 S/. 756.80"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4747|MONITOR 27 IPS ASUS TUF GAMING VG27AQL5A OPEN BOX 2K 1MS 210HZ ALTAVOZ 2*1.2W HDMI DP USB HUB OB-TUF-GAMING-VG27AQL5A",
+    "nombre": "MONITOR 27 IPS ASUS TUF GAMING VG27AQL5A OPEN BOX 2K 1MS 210HZ ALTAVOZ 2*1.2W HDMI DP USB HUB OB-TUF-GAMING-VG27AQL5A",
+    "enlace": "shop-product-detail.php?prod=4747",
+    "precio": "$175.00 S/. 616.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4746|MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "nombre": "MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "enlace": "shop-product-detail.php?prod=4746",
+    "precio": "$499.00 S/. 1756.48"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4745|MONITOR 27 FAST IPS ASUS TUF GAMING VG279Q5R OPEN BOX 1080P 0.3MS 200HZ 2*1.2W HDMI DP AMD FREESYNC PREMIUM ADAPTIVE SYNC",
+    "nombre": "MONITOR 27 FAST IPS ASUS TUF GAMING VG279Q5R OPEN BOX 1080P 0.3MS 200HZ 2*1.2W HDMI DP AMD FREESYNC PREMIUM ADAPTIVE SYNC",
+    "enlace": "shop-product-detail.php?prod=4745",
+    "precio": "$0.00 S/. 0.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4744|MONITOR 24 FAST IPS ASUS TUG GAMING VG249Q5R OPEN BOX 1080P 200HZ 0.3MS ALTAVOZ 1,2W*2 HDMI DP",
+    "nombre": "MONITOR 24 FAST IPS ASUS TUG GAMING VG249Q5R OPEN BOX 1080P 200HZ 0.3MS ALTAVOZ 1,2W*2 HDMI DP",
+    "enlace": "shop-product-detail.php?prod=4744",
+    "precio": "$0.00 S/. 0.00"
   }
 ]
