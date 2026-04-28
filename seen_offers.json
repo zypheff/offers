@@ -580,5 +580,23 @@
     "nombre": "MONITOR 24 FAST IPS ASUS TUG GAMING VG249Q5R OPEN BOX 1080P 200HZ 0.3MS ALTAVOZ 1,2W*2 HDMI DP",
     "enlace": "shop-product-detail.php?prod=4744",
     "precio": "$0.00 S/. 0.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4772|PLACA ASUS TUF GAMING B650M-PLUS WIFI AMD B650 AM5 OPEN BOX DDR5 HDMI DP M.2 BLUETOOTH V5.2 USB 3.2 SATA 6GB M-ATX",
+    "nombre": "PLACA ASUS TUF GAMING B650M-PLUS WIFI AMD B650 AM5 OPEN BOX DDR5 HDMI DP M.2 BLUETOOTH V5.2 USB 3.2 SATA 6GB M-ATX",
+    "enlace": "shop-product-detail.php?prod=4772",
+    "precio": "$113.00 S/. 398.89"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4771|PLACA ASUS ROG STRIX X870-A GAMING WIFI OPEN BOX AMD X870 AM5 DDR5 HDMI DP M.2 SATA III BLUETOOTH V5.4 ATX",
+    "nombre": "PLACA ASUS ROG STRIX X870-A GAMING WIFI OPEN BOX AMD X870 AM5 DDR5 HDMI DP M.2 SATA III BLUETOOTH V5.4 ATX",
+    "enlace": "shop-product-detail.php?prod=4771",
+    "precio": "$199.00 S/. 702.47"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4770|VIDEO ASUS PRIME GEFORCE RTX 5060 8GB GDDR7 OC OPEN BOX EDITION CUDA 4608 128-BIT HDMI DP PRIME-RTX5060-O8G",
+    "nombre": "VIDEO ASUS PRIME GEFORCE RTX 5060 8GB GDDR7 OC OPEN BOX EDITION CUDA 4608 128-BIT HDMI DP PRIME-RTX5060-O8G",
+    "enlace": "shop-product-detail.php?prod=4770",
+    "precio": "$399.00 S/. 1408.47"
   }
 ]
