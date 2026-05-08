@@ -604,5 +604,17 @@
     "nombre": "MESA PORTATIL DE LAPTOP",
     "enlace": "shop-product-detail.php?prod=4773",
     "precio": "$13.00 S/. 46.02"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4790|PLACA ASUS TUF GAMING Z890-PLUS WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH 5.4 USB 20GB ATX",
+    "nombre": "PLACA ASUS TUF GAMING Z890-PLUS WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH 5.4 USB 20GB ATX",
+    "enlace": "shop-product-detail.php?prod=4790",
+    "precio": "$199.00 S/. 688.54"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4789|VIDEO ASUS ROG ASTRAL GEFORCE RTX 5080 16GB GDDR7 OC OPEN BOX EDITION CUDA 10752 192-BIT HDMI DP ARGB ROG-ASTRAL-RTX5080-O16G-GAMING",
+    "nombre": "VIDEO ASUS ROG ASTRAL GEFORCE RTX 5080 16GB GDDR7 OC OPEN BOX EDITION CUDA 10752 192-BIT HDMI DP ARGB ROG-ASTRAL-RTX5080-O16G-GAMING",
+    "enlace": "shop-product-detail.php?prod=4789",
+    "precio": "$1625.00 S/. 5622.50"
   }
 ]
