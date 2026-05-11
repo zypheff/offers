@@ -616,5 +616,17 @@
     "nombre": "VIDEO ASUS ROG ASTRAL GEFORCE RTX 5080 16GB GDDR7 OC OPEN BOX EDITION CUDA 10752 192-BIT HDMI DP ARGB ROG-ASTRAL-RTX5080-O16G-GAMING",
     "enlace": "shop-product-detail.php?prod=4789",
     "precio": "$1625.00 S/. 5622.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4793|MONITOR 27 IPS ASUS TUF GAMING VG27AQZ1A OPEN BOX 2K 170HZ 1MS SPEAKER 2W*2 HDMI DP",
+    "nombre": "MONITOR 27 IPS ASUS TUF GAMING VG27AQZ1A OPEN BOX 2K 170HZ 1MS SPEAKER 2W*2 HDMI DP",
+    "enlace": "shop-product-detail.php?prod=4793",
+    "precio": "$125.00 S/. 433.75"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4792|MONITOR 24 IPS ASUS TUF GAMING VG249Q3R OPEN BOX 1080P 1MS 180HZ SPEAKER 2W*2 HDMI DP FREESYNC",
+    "nombre": "MONITOR 24 IPS ASUS TUF GAMING VG249Q3R OPEN BOX 1080P 1MS 180HZ SPEAKER 2W*2 HDMI DP FREESYNC",
+    "enlace": "shop-product-detail.php?prod=4792",
+    "precio": "$85.00 S/. 294.95"
   }
 ]
