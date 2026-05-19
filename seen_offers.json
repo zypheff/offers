@@ -634,5 +634,17 @@
     "nombre": "MESA PORTATIL DE LAPTOP",
     "enlace": "shop-product-detail.php?prod=4798",
     "precio": "$13.00 S/. 44.85"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4815|PLACA ASUS TUF GAMING B860-PLUS WIFI OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH USB 20GB",
+    "nombre": "PLACA ASUS TUF GAMING B860-PLUS WIFI OPEN BOX LGA 1851 INTEL B860 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH USB 20GB",
+    "enlace": "shop-product-detail.php?prod=4815",
+    "precio": "$140.00 S/. 481.60"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4811|VIDEO ASUS DUAL GEFORCE RTX 5060 EVO OC OPEN BOX EDITION 8GB GDDR7 CUDA 3840 128-BIT HDMI DP DUAL-RTX5060-O8G-EVO",
+    "nombre": "VIDEO ASUS DUAL GEFORCE RTX 5060 EVO OC OPEN BOX EDITION 8GB GDDR7 CUDA 3840 128-BIT HDMI DP DUAL-RTX5060-O8G-EVO",
+    "enlace": "shop-product-detail.php?prod=4811",
+    "precio": "$320.00 S/. 1100.80"
   }
 ]
