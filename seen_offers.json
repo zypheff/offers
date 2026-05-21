@@ -646,5 +646,11 @@
     "nombre": "VIDEO ASUS DUAL GEFORCE RTX 5060 EVO OC OPEN BOX EDITION 8GB GDDR7 CUDA 3840 128-BIT HDMI DP DUAL-RTX5060-O8G-EVO",
     "enlace": "shop-product-detail.php?prod=4811",
     "precio": "$320.00 S/. 1100.80"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4818|VIDEO ASUS DUAL GEFORCE RTX 3060 V2 OC OPEN BOX EDITION 12GB GDDR6 CUDA 3584 192-BIT DUAL-RTX3060-O12G-V2",
+    "nombre": "VIDEO ASUS DUAL GEFORCE RTX 3060 V2 OC OPEN BOX EDITION 12GB GDDR6 CUDA 3584 192-BIT DUAL-RTX3060-O12G-V2",
+    "enlace": "shop-product-detail.php?prod=4818",
+    "precio": "$299.00 S/. 1028.56"
   }
 ]
