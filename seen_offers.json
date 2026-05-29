@@ -658,5 +658,29 @@
     "nombre": "MONITOR 27 IPS ASUS ROG STRIX XG27ACMES OPEN BOX 2K 0.3MS 255HZ HDMI DP USB-C AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
     "enlace": "shop-product-detail.php?prod=4834",
     "precio": "$235.00 S/. 810.75"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4840|VIDEO ASUS DUAL GEFORCE RTX 5060 EVO OC OPEN BOX EDITION 8GB GDDR7 CUDA 3840 128-BIT HDMI DP DUAL-RTX5060-O8G-EVO",
+    "nombre": "VIDEO ASUS DUAL GEFORCE RTX 5060 EVO OC OPEN BOX EDITION 8GB GDDR7 CUDA 3840 128-BIT HDMI DP DUAL-RTX5060-O8G-EVO",
+    "enlace": "shop-product-detail.php?prod=4840",
+    "precio": "$350.00 S/. 1207.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4839|MONITOR 27 IPS ASUS PROART PA278CV OPEN BOX WQHD2K 2560*1440 USB HUB USB-C DISPLAYPORT HDMI",
+    "nombre": "MONITOR 27 IPS ASUS PROART PA278CV OPEN BOX WQHD2K 2560*1440 USB HUB USB-C DISPLAYPORT HDMI",
+    "enlace": "shop-product-detail.php?prod=4839",
+    "precio": "$125.00 S/. 431.25"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4838|MONITOR 27 FAST IPS ASUS ROG STRIX XG279CNS OPEN BOX 1080P 1MS 380HZ HDMI DP ADAPTIVE-SYNC",
+    "nombre": "MONITOR 27 FAST IPS ASUS ROG STRIX XG279CNS OPEN BOX 1080P 1MS 380HZ HDMI DP ADAPTIVE-SYNC",
+    "enlace": "shop-product-detail.php?prod=4838",
+    "precio": "$210.00 S/. 724.50"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4837|CASE ASUS TUF GAMING GT302 ARGB WHITE OPEN BOX EATX S/F TEMPERED GLASS",
+    "nombre": "CASE ASUS TUF GAMING GT302 ARGB WHITE OPEN BOX EATX S/F TEMPERED GLASS",
+    "enlace": "shop-product-detail.php?prod=4837",
+    "precio": "$88.00 S/. 303.60"
   }
 ]
