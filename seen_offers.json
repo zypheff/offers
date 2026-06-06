@@ -700,5 +700,23 @@
     "nombre": "MAQUINA DE HIELO HICON HZB16G WHITE",
     "enlace": "shop-product-detail.php?prod=4856",
     "precio": "$30.00 S/. 104.70"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4859|CASE ASUS ROG HYPERION GR701 BLACK ARGB OPEN BOX E-ATX TYPE-C ALUMINIO AURA SYNC RGB GR701-BK",
+    "nombre": "CASE ASUS ROG HYPERION GR701 BLACK ARGB OPEN BOX E-ATX TYPE-C ALUMINIO AURA SYNC RGB GR701-BK",
+    "enlace": "shop-product-detail.php?prod=4859",
+    "precio": "$249.00 S/. 869.01"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4858|COOLER DE CPU ASUS ROG RYUO IV 360 ARGB OPEN BOX HATSUNE MIKU EDITION 3*120MM MF-12C ARGB FAN MONITOR: 6.67 AMOLED AMD INTEL",
+    "nombre": "COOLER DE CPU ASUS ROG RYUO IV 360 ARGB OPEN BOX HATSUNE MIKU EDITION 3*120MM MF-12C ARGB FAN MONITOR: 6.67 AMOLED AMD INTEL",
+    "enlace": "shop-product-detail.php?prod=4858",
+    "precio": "$249.00 S/. 869.01"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4857|PLACA ASUS ROG STRIX Z890-E GAMING WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH V5.4 USB 20GB ATX",
+    "nombre": "PLACA ASUS ROG STRIX Z890-E GAMING WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH V5.4 USB 20GB ATX",
+    "enlace": "shop-product-detail.php?prod=4857",
+    "precio": "$249.00 S/. 869.01"
   }
 ]
