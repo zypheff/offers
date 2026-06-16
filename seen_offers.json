@@ -718,5 +718,11 @@
     "nombre": "PLACA ASUS ROG STRIX Z890-E GAMING WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH V5.4 USB 20GB ATX",
     "enlace": "shop-product-detail.php?prod=4857",
     "precio": "$249.00 S/. 869.01"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4886|NUC INTEL NUC12WSKI7 OPEN BOX I7 WIFI BLUETOOTH HDMI 2.1 THUNDERBOLT 4 USB-C USB 3.2 SWNUC12WSKI70Z0",
+    "nombre": "NUC INTEL NUC12WSKI7 OPEN BOX I7 WIFI BLUETOOTH HDMI 2.1 THUNDERBOLT 4 USB-C USB 3.2 SWNUC12WSKI70Z0",
+    "enlace": "shop-product-detail.php?prod=4886",
+    "precio": "$499.00 S/. 1696.60"
   }
 ]
