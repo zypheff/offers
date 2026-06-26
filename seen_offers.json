@@ -730,5 +730,29 @@
     "nombre": "VIDEO ASUS TUF GAMING GEFORCE RTX 5060 8GB OPEN BOX GDDR7 OC EDITION CUDA 3840 128-BIT HDMI DP ARGB TUF-RTX5060-O8G-GAMING",
     "enlace": "shop-product-detail.php?prod=4897",
     "precio": "$399.00 S/. 1376.55"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4904|NUC INTEL BXNUC10I5FNHN1 OPEN BOX I5 WIFI BLUETOOTH HDMI 2.1 THUNDERBOLT 4 USB-C USB 3.2 BXNUC10I5FNHN1",
+    "nombre": "NUC INTEL BXNUC10I5FNHN1 OPEN BOX I5 WIFI BLUETOOTH HDMI 2.1 THUNDERBOLT 4 USB-C USB 3.2 BXNUC10I5FNHN1",
+    "enlace": "shop-product-detail.php?prod=4904",
+    "precio": "$199.00 S/. 680.58"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4903|NUC ASUS 12 PRO CORE I5-1240P OPEN BOX M.2 RAM WI FI BLUETOOTH USB 3.2 THUNDERBOLT HDMI 90AR00E1-M00060",
+    "nombre": "NUC ASUS 12 PRO CORE I5-1240P OPEN BOX M.2 RAM WI FI BLUETOOTH USB 3.2 THUNDERBOLT HDMI 90AR00E1-M00060",
+    "enlace": "shop-product-detail.php?prod=4903",
+    "precio": "$199.00 S/. 680.58"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4902|NUC ASUS 12 PRO CORE I3-1220P OPEN BOX M.2 RAM WI FI BLUETOOTH USB 3.2 THUNDERBOLT HDMI 90AR00E1-M00020",
+    "nombre": "NUC ASUS 12 PRO CORE I3-1220P OPEN BOX M.2 RAM WI FI BLUETOOTH USB 3.2 THUNDERBOLT HDMI 90AR00E1-M00020",
+    "enlace": "shop-product-detail.php?prod=4902",
+    "precio": "$145.00 S/. 495.90"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4901|NUC INTEL NUC12WSKI7 OPEN BOX I7 WIFI BLUETOOTH HDMI 2.1 THUNDERBOLT 4 USB-C USB 3.2 SWNUC12WSKI70Z0",
+    "nombre": "NUC INTEL NUC12WSKI7 OPEN BOX I7 WIFI BLUETOOTH HDMI 2.1 THUNDERBOLT 4 USB-C USB 3.2 SWNUC12WSKI70Z0",
+    "enlace": "shop-product-detail.php?prod=4901",
+    "precio": "$299.00 S/. 1022.58"
   }
 ]
