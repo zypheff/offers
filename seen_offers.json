@@ -814,5 +814,11 @@
     "nombre": "PLACA ASUS PRIME Z890-P WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH V5.4 USB 10GB ATX",
     "enlace": "shop-product-detail.php?prod=4831",
     "precio": "$210.00 S/. 718.20"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4577|CASE TEROS TE-1323G BLACK ATX USB 3.1 TEMPERED GLASS",
+    "nombre": "CASE TEROS TE-1323G BLACK ATX USB 3.1 TEMPERED GLASS",
+    "enlace": "shop-product-detail.php?prod=4577",
+    "precio": "$29.00 S/. 99.18"
   }
 ]
