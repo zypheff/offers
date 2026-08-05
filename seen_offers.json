@@ -778,5 +778,41 @@
     "nombre": "MOUSE COOLER MASTER MM310 DPI 12000 WIRED TYPE-C- WHITE EDITION",
     "enlace": "shop-product-detail.php?prod=4709",
     "precio": "$15.00 S/. 51.75"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4985|MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "nombre": "MONITOR 27 WOLED ASUS ROG STRIX OLED XG27AQDMG OPEN BOX 2K 0.03MS 240HZ FREESYNC PREMIUM & G-SYNCHDMI DP ROG-STRIX-OLED-XG27AQDMG",
+    "enlace": "shop-product-detail.php?prod=4985",
+    "precio": "$490.00 S/. 1675.80"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4984|MONITOR 27 IPS ASUS ROG STRIX XG27ACS OPEN-BOX USB TYPE-C GAMING 2K 180HZ 1MS HDMI DP USB-C ROG-STRIX-XG27ACS",
+    "nombre": "MONITOR 27 IPS ASUS ROG STRIX XG27ACS OPEN-BOX USB TYPE-C GAMING 2K 180HZ 1MS HDMI DP USB-C ROG-STRIX-XG27ACS",
+    "enlace": "shop-product-detail.php?prod=4984",
+    "precio": "$199.00 S/. 680.58"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4983|MONITOR 24 FAST IPS ASUS TUG GAMING VG249Q5R OPEN BOX 1080P 200HZ 0.3MS ALTAVOZ 1,2W*2 HDMI DP",
+    "nombre": "MONITOR 24 FAST IPS ASUS TUG GAMING VG249Q5R OPEN BOX 1080P 200HZ 0.3MS ALTAVOZ 1,2W*2 HDMI DP",
+    "enlace": "shop-product-detail.php?prod=4983",
+    "precio": "$99.00 S/. 338.58"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4982|MONITOR 24.5 FAST IPS ASUS ROG STRIX XG259CMS OPEN BOX 1080P 1MS 310HZ HDMI DP USB-C AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
+    "nombre": "MONITOR 24.5 FAST IPS ASUS ROG STRIX XG259CMS OPEN BOX 1080P 1MS 310HZ HDMI DP USB-C AMD FREESYNC PREMIUM G-SYNC COMPATIBLE",
+    "enlace": "shop-product-detail.php?prod=4982",
+    "precio": "$110.00 S/. 376.20"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4911|NUC ASUS 12 PRO CORE I3-1220P OPEN BOX M.2 RAN WI FI BLUETOOTH USB 3.2 THUNDERBOLT HDMI 90AR00E1-M00020",
+    "nombre": "NUC ASUS 12 PRO CORE I3-1220P OPEN BOX M.2 RAN WI FI BLUETOOTH USB 3.2 THUNDERBOLT HDMI 90AR00E1-M00020",
+    "enlace": "shop-product-detail.php?prod=4911",
+    "precio": "$145.00 S/. 495.90"
+  },
+  {
+    "id": "shop-product-detail.php?prod=4831|PLACA ASUS PRIME Z890-P WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH V5.4 USB 10GB ATX",
+    "nombre": "PLACA ASUS PRIME Z890-P WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH V5.4 USB 10GB ATX",
+    "enlace": "shop-product-detail.php?prod=4831",
+    "precio": "$210.00 S/. 718.20"
   }
 ]
