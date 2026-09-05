@@ -838,5 +838,23 @@
     "nombre": "PLACA ASUS ROG STRIX X870-A GAMING WIFI OPEN BOX AMD X870 AM5 DDR5 HDMI DP M.2 SATA III BLUETOOTH V5.4 ATX",
     "enlace": "shop-product-detail.php?prod=5008",
     "precio": "$199.00 S/. 676.60"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5050|MONITOR 27 IPS ASUS PROART DISPLAY PA279CRV OPEN BOX 4K UHD 60HZ 5MS USB-C HDMI/DP",
+    "nombre": "MONITOR 27 IPS ASUS PROART DISPLAY PA279CRV OPEN BOX 4K UHD 60HZ 5MS USB-C HDMI/DP",
+    "enlace": "shop-product-detail.php?prod=5050",
+    "precio": "$170.00 S/. 576.30"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5049|MONITOR 24 IPS ASUS TUF GAMING VG249QE5A OPEN BOX 1080P 146HZ 2W*2 HDMI DP",
+    "nombre": "MONITOR 24 IPS ASUS TUF GAMING VG249QE5A OPEN BOX 1080P 146HZ 2W*2 HDMI DP",
+    "enlace": "shop-product-detail.php?prod=5049",
+    "precio": "$85.00 S/. 288.15"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5048|MONITOR 27 WOLED ASUS ROG SWIFT OLED PG27AQDP OPEN BOX 2K 480HZ 0.03HZ HDMI DP ROG-SWIFT-OLED-PG27AQDP",
+    "nombre": "MONITOR 27 WOLED ASUS ROG SWIFT OLED PG27AQDP OPEN BOX 2K 480HZ 0.03HZ HDMI DP ROG-SWIFT-OLED-PG27AQDP",
+    "enlace": "shop-product-detail.php?prod=5048",
+    "precio": "$385.00 S/. 1305.15"
   }
 ]
