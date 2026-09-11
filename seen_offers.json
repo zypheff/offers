@@ -856,5 +856,11 @@
     "nombre": "MONITOR 27 WOLED ASUS ROG SWIFT OLED PG27AQDP OPEN BOX 2K 480HZ 0.03HZ HDMI DP ROG-SWIFT-OLED-PG27AQDP",
     "enlace": "shop-product-detail.php?prod=5048",
     "precio": "$385.00 S/. 1305.15"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5052|PLACA ASUS TUF GAMING Z890-PLUS WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH 5.4 USB 20GB ATX",
+    "nombre": "PLACA ASUS TUF GAMING Z890-PLUS WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH 5.4 USB 20GB ATX",
+    "enlace": "shop-product-detail.php?prod=5052",
+    "precio": "$240.00 S/. 818.40"
   }
 ]
