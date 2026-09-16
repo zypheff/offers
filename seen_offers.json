@@ -862,5 +862,17 @@
     "nombre": "PLACA ASUS TUF GAMING Z890-PLUS WIFI OPEN BOX INTEL Z890 LGA 1851 DDR5 HDMI DP M.2 SATA 6GB BLUETOOTH 5.4 USB 20GB ATX",
     "enlace": "shop-product-detail.php?prod=5052",
     "precio": "$240.00 S/. 818.40"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5056|FUENTE 1000W ASUS TUF GAMING 1000W OPEN BOX 80 PLUS GOLD FULL MODULAR ROHS TUF-GAMING-1000G",
+    "nombre": "FUENTE 1000W ASUS TUF GAMING 1000W OPEN BOX 80 PLUS GOLD FULL MODULAR ROHS TUF-GAMING-1000G",
+    "enlace": "shop-product-detail.php?prod=5056",
+    "precio": "$120.00 S/. 408.00"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5055|VIDEO ASUS DUAL RADEON RX 9060 XT 16GB OPEN BOX GDDR6 SP 2048 128-BIT HDMI DP DUAL-RX9060XT-16G",
+    "nombre": "VIDEO ASUS DUAL RADEON RX 9060 XT 16GB OPEN BOX GDDR6 SP 2048 128-BIT HDMI DP DUAL-RX9060XT-16G",
+    "enlace": "shop-product-detail.php?prod=5055",
+    "precio": "$499.00 S/. 1696.60"
   }
 ]
