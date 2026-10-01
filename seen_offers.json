@@ -910,5 +910,23 @@
     "nombre": "MONITOR 34 ASUS TUF GAMING VG34WQML5A OPEN BOX VA 4K 1MS 250HZ 1.2W X2 HDMI DP TUF-GAMING-VG34WQML5A",
     "enlace": "shop-product-detail.php?prod=5104",
     "precio": "$225.00 S/. 776.25"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5118|MONITOR 27 IPS ASUS ROG STRIX XG27ACS OPEN-BOX USB TYPE-C GAMING 2K 180HZ 1MS HDMI DP USB-C ROG-STRIX-XG27ACS",
+    "nombre": "MONITOR 27 IPS ASUS ROG STRIX XG27ACS OPEN-BOX USB TYPE-C GAMING 2K 180HZ 1MS HDMI DP USB-C ROG-STRIX-XG27ACS",
+    "enlace": "shop-product-detail.php?prod=5118",
+    "precio": "$199.00 S/. 690.53"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5117|PLACA ASUS PRIME B650M-A II OPEN BOX AMD B650 DDR5 PCIE 5.0 M.2 HDMI DP VGA USB 3.2 MICRO-ATX",
+    "nombre": "PLACA ASUS PRIME B650M-A II OPEN BOX AMD B650 DDR5 PCIE 5.0 M.2 HDMI DP VGA USB 3.2 MICRO-ATX",
+    "enlace": "shop-product-detail.php?prod=5117",
+    "precio": "$84.00 S/. 291.48"
+  },
+  {
+    "id": "shop-product-detail.php?prod=5116|MONITOR 27 FAST-IPS ASUS TUF GAMING VG27AQ5F OPEN BOX 2K 0.03MS 220HZ HDMI DP TUF-GAMING-VG27AQ5F",
+    "nombre": "MONITOR 27 FAST-IPS ASUS TUF GAMING VG27AQ5F OPEN BOX 2K 0.03MS 220HZ HDMI DP TUF-GAMING-VG27AQ5F",
+    "enlace": "shop-product-detail.php?prod=5116",
+    "precio": "$145.00 S/. 503.15"
   }
 ]
